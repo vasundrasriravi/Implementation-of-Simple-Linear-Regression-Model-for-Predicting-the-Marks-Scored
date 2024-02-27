@@ -15,7 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: VASUNDRA SRI R
 RegisterNumber: 212222230168
@@ -63,27 +63,27 @@ print("MAE = ",mae)
 
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
-*/
+
 ```
 
 ## Output:
-# df.head()
+### df.head()
 ![head](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/fa14b195-55e0-4b59-8c36-549de4e46562)
 
-# df.tail()
+### df.tail()
 ![tail](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/95853607-49ba-45aa-bf07-e73a166d2a72)
 
-# X and Y values
+### X and Y values
 ![x y values](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/a7a46d86-ab36-458f-b067-f4bbb35d189e)
 
 ![Screenshot 2024-02-27 134531](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/f946fee6-a3be-4537-a944-8d8fc0dcb111)
 
-# Training and Testing Set
+### Training and Testing Set
 ![Screenshot 2024-02-27 134808](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/e57887f4-1bb9-41f8-acf8-e6b0438b05ca)
 
 ![Screenshot 2024-02-27 134826](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/dcc6802a-88be-4742-9285-11d401f0e4ee)
 
-# Values of MSE,MAE and RMSE
+### Values of MSE,MAE and RMSE
 ![Screenshot 2024-02-27 134839](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/eee56194-229b-4c5e-be70-d2b229816942)
 
 ![Screenshot 2024-02-27 134851](https://github.com/vasundrasriravi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393983/e2b194bd-28d2-4b01-975b-61bf806b7d36)
